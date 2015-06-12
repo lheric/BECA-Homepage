@@ -1,0 +1,14 @@
+<!doctype html>
+<head>
+    <title>Video for BECA</title>
+    <script src="//vjs.zencdn.net/4.1/video.js"></script>
+</head>
+<body>
+<div style="width:700px;margin:0px auto;">
+    <video id="example_video" class="video-js vjs-default-skin"
+           controls preload="auto" width="960" height="540"
+           data-setup='{"controls":true}'>
+        <source src="/video/HumanBrainVis.mp4" type='video/mp4' />
+    </video>
+</div>
+</body>
