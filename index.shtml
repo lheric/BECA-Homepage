@@ -42,16 +42,16 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.shtml">BECA - Brain Explorer for Connectomic Analysis</a>
+                <a class="navbar-brand" href="index.html">BECA - Brain Explorer for Connectomic Analysis</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="active">
-                        <a href="index.shtml">Home</a>
+                        <a href="index.html">Home</a>
                     </li>
                     <li>
-                        <a href="asserts/BECA_Software_Manual.pdf">Documentation</a>
+                        <a href="asserts/BECA_Software_Manual.pdf" target="_blank">Documentation</a>
                     </li>
                     <li>
                         <a href="download.html">Download</a>
@@ -117,7 +117,17 @@
     <!-- Page Content -->
     <div class="container">
 
+        <!-- Paper Section -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="page-header">Paper</h2>
+            </div>
 
+
+            <div class="col-md-12">
+                <p>Li H, Fang S, Goni J, Contreras JA, Liang Y, Cai C, West JD, Risacher SL, Wang Y, Sporns O, Saykin AJ, Shen L, for the ADNI. (2015) Integrated visualization of human brain connectome data. BIH 2015 Special Session on Neuroimaging Data Analysis and Applications, <a href="http://download.springer.com/static/pdf/931/bfm%253A978-3-319-23344-4%252F1.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fbook%2Fbfm%3A978-3-319-23344-4%2F1&token2=exp=1443326547~acl=%2Fstatic%2Fpdf%2F931%2Fbfm%25253A978-3-319-23344-4%25252F1.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fbook%252Fbfm%253A978-3-319-23344-4%252F1*~hmac=cfbbd5163ad1bce7607c176f501157bd63d8fb174bafb2a9731d14b6df4ed9d4">Lecture Notes in Artificial Intelligence, 9250:295-305</a>, London, UK, 30 August - 2 September 2015.</p>
+            </div>
+        </div>
 
 
         <!-- Features Section -->
@@ -127,7 +137,7 @@
             </div>
 
 
-            <div class="col-md-8">
+            <div class="col-md-12">
 
                 <p>The BECA includes following features:</p>
 
